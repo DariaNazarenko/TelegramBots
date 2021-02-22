@@ -1,0 +1,16 @@
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\FirstTgBot.exe
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.csprojAssemblyReference.cache
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.AssemblyInfoInputs.cache
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.AssemblyInfo.cs
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\FirstTgBot.deps.json
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\FirstTgBot.runtimeconfig.json
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\FirstTgBot.runtimeconfig.dev.json
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\FirstTgBot.dll
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\FirstTgBot.pdb
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.csproj.CoreCompileInputs.cache
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.csproj.CopyComplete
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.dll
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.pdb
+C:\Study\Курсы\SoftServe\FirstTgBot\FirstTgBot\obj\Debug\netcoreapp3.1\FirstTgBot.genruntimeconfig.cache
